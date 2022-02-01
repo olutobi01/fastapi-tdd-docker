@@ -2,3 +2,4 @@ __pycache__
 env
 appname.txt
 token.txt
+.ipynb_checkpoints
